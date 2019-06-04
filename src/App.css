@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.App-logo {
+  height: 40px;
+}
+
+.App-header {
+  border-top: 4px solid #6db33f;
+  background-color:#34302d;
+  height: 100px;
+  color: white;
+}
+
+.App-header h1 {
+  color: white;
+  margin-bottom: -10px;
+}
+
+.App-header h2 {
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.graph {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
